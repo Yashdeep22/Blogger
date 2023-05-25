@@ -1,0 +1,30 @@
+[
+	{
+	"title": "Iron Man",
+	"body" : "`Tony Stark is the wealthy son of industrialist and weapons manufacturer Howard Stark and his wife, Maria. Tony grew up a genius with a brilliant mind for technology and inventions and, naturally, followed in his father's footsteps, inheriting Stark Industries upon his parents' untimely death.`",
+	"author": "Jon Favreau ",
+	"imgUrl":
+		"https://cdn.britannica.com/51/182851-050-97EA5117/Publicity-image-Iron-Man-War-Machine-2.jpg"
+	},
+	{
+	"title": "Spider Man",
+	"body" : "`Spider-Man was a radical departure from the established conventions of the comic-book superhero: he was a teenage character who was not relegated to sidekick status beside an older, more-experienced hero. In addition to enhanced speed and strength, Parker also possessed a precognitive “spider sense” that alerted him to approaching dangers. Using his inborn scientific talents, Parker synthesized a unique adhesive “web fluid” and built a pair of wrist-mounted web-shooters that enabled him to shape the webbing into various useful forms. He also designed and sewed the web-festooned red-and-blue costume that quickly became Spider-Man’s most visible trademark.`",
+	"author": "Sam Raimi",
+	"imgUrl":
+	"https://cdn.britannica.com/54/93454-050-5AC49E5E/Spider-Man-Tobey-Maguire-2.jpg"
+	},
+	{
+	"title": "Thor",
+	"body" : "`Thor’s first adventure introduced readers to the doctor Donald Blake.While vacationing in Norway, Blake stumbles across an invasion force of the Stone Men of Saturn (an alien race later known as Kronans). When the startled doctor takes refuge in a nearby cave, he finds a cane, which he strikes against the wall, only to find himself dramatically changed. Blake becomes the thunder god Thor, and the cane transforms into the enchanted hammer Mjolnir.The inscription on the hammer declares, “Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.” As Thor, Blake could fly and control the elements, and he possessed extraordinary strength. Mjolnir magically returned after being thrown, but if it was out of Thor’s grasp for more than one minute, Thor reverted to his civilian identity as Blake.`",
+	"author": "Taika Waititi, Alan Taylor, Kenneth Branagh",
+	"imgUrl":
+	"https://images.indianexpress.com/2019/09/avengers-endgame-chris-hemsworth-fat-thor-1200.jpg"
+	},
+	{
+	"title": "Captain America",
+	"body" : "`Simon and Kirby created Steve Rogers, a would-be army enlistee rejected by recruiters because of his small size. Rogers volunteers to receive a top-secret serum, and he is transformed into a “super soldier.” Dubbed Captain America and clad in a red, white, and blue costume with a matching stars-and-stripes shield,Rogers joins the U.S. Army, acquires a kid sidekick—plucky regimental mascot Bucky Barnes—and embarks on a career of enthusiastic Nazi-bashing.`",
+	"author": "Joe Johnston",
+	"imgUrl":
+		"https://i.pinimg.com/originals/8d/83/69/8d8369514ff51872ab0205763a30326b.jpg"
+	}
+]
